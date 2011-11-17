@@ -1,0 +1,9 @@
+skype:
+  username: foo
+  password: bar
+gmail:
+  username: admin
+  password: pazzw0rd
+go:
+  email: go@mycompany.com
+
